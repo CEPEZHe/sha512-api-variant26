@@ -1,0 +1,1 @@
+SHA-512 sample A: plain ASCII file.

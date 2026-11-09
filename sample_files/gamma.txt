@@ -1,0 +1,1 @@
+SHA-512 sample C: 0123456789 abcdefghijklmnopqrstuvwxyz.

@@ -1,0 +1,2 @@
+SHA-512 sample B: two lines.
+The quick brown fox jumps over the lazy dog.
